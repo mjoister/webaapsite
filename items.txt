@@ -1,0 +1,6 @@
+1;Ассорти из брускетт;489;assorti-iz-bruskett.jpg
+2;Борщ кубанский;269;borshh-kubanskij.jpg
+3;Боул с картофелем, говядиной и битым огурцом;289;boul-s-kartofelem.jpg
+4;Боул с крабовым муссом;329;boul-s-krabovym-mussom.jpg
+5;Боул с креветкой и киноа;459;boul-s-krevetkoj-i-kinoa.jpg
+6;Боул с креветкой и яйцом пашот;349;boul-s-krevetkoj-i-yajcom.jpg
